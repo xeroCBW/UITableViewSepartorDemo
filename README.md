@@ -26,9 +26,11 @@
 
 **效果图**
 
-![Snip20160828_3.png](http://upload-images.jianshu.io/upload_images/874748-41a7d0ec65c1a0bc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
+<figure class="third">
+    <img src="http://upload-images.jianshu.io/upload_images/874748-41a7d0ec65c1a0bc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200">
+    <img src="http://upload-images.jianshu.io/upload_images/874748-0af74a30f3b788db.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200">
+    <img src="http://upload-images.jianshu.io/upload_images/874748-135499275b8f783b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200">
+    
+</figure>
 
-![Snip20160828_2.png](http://upload-images.jianshu.io/upload_images/874748-0af74a30f3b788db.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
 
-
-![Snip20160828_1.png](http://upload-images.jianshu.io/upload_images/874748-135499275b8f783b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
